@@ -352,7 +352,7 @@ h6 {
   background-position: center center;
 }
 
-#hero .carousel-item::before {
+/* #hero .carousel-item::before {
   content: "";
   background-color: rgba(255, 255, 255, 0.6);
   position: absolute;
@@ -360,7 +360,7 @@ h6 {
   right: 0;
   left: 0;
   bottom: 0;
-}
+} */
 
 #hero .carousel-container {
   display: flex;

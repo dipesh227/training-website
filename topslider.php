@@ -5,7 +5,7 @@
             <ol class="carousel-indicators" id="hero-carousel-indicators"></ol>
             <div class="carousel-inner" role="listbox">
                 <!-- Slide 1 -->
-                <div class="carousel-item active" style="background: url(assets/img/slide/slide-1.jpg)">
+                <div class="carousel-item active" style="background: url(https://cdn.pixabay.com/photo/2016/06/15/16/00/woman-1459220_960_720.png)">
                     <div class="carousel-container">
                         <div class="carousel-content">
                             <h2 class="animate__animated animate__fadeInDown">Welcome to <span>Eterna</span></h2>
@@ -15,7 +15,7 @@
                     </div>
                 </div>
                 <!-- Slide 2 -->
-                <div class="carousel-item" style="background: url(assets/img/slide/slide-2.jpg)">
+                <div class="carousel-item" style="background: url(https://cdn.pixabay.com/photo/2016/04/04/14/12/monitor-1307227_960_720.jpg)">
                     <div class="carousel-container">
                         <div class="carousel-content">
                             <h2 class="animate__animated fanimate__adeInDown">Lorem <span>Ipsum Dolor</span></h2>
@@ -25,7 +25,7 @@
                     </div>
                 </div>
                 <!-- Slide 3 -->
-                <div class="carousel-item" style="background: url(assets/img/slide/slide-3.jpg)">
+                <div class="carousel-item" style="background: url(https://cdn.pixabay.com/photo/2016/04/04/14/12/monitor-1307227_960_720.jpg)">
                     <div class="carousel-container">
                         <div class="carousel-content">
                             <h2 class="animate__animated animate__fadeInDown">Sequi ea <span>Dime Lara</span></h2>
